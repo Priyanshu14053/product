@@ -108,13 +108,7 @@ class _HomeTabState extends State<HomeTab> {
             ),
 
             const SizedBox(height: 24),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [
-                Text('hi'),
-                Text('hello'),
-              ],
-            ),
+
             const SizedBox(height: 24),
 
             // -------------------------
